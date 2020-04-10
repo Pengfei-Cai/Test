@@ -18,3 +18,6 @@ def imShr(pheight,pwidth,inpath,outpath):
 
 if __name__ == '__main__':
     imShr()
+
+
+    #测试语句
